@@ -13,11 +13,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Para rodar o projeto use os seguintes comandos no terminal: <br>
-`npm install`
-`ng add @angular/material`
-`npm install highcharts-angular --save`
-`npm install highcharts --save`
-`npm install @angular/flex-layout @angular/cdk --save`
+`npm install`<br>
+`ng add @angular/material`<br>
+`npm install highcharts-angular --save`<br>
+`npm install highcharts --save`<br>
+`npm install @angular/flex-layout @angular/cdk --save`<br>
 
 ## Running unit tests
 
